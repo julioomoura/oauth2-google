@@ -1,5 +1,5 @@
-security.oauth2.client.clientId = <CLIENT_ID>
-security.oauth2.client.clientSecret = <CLIENT_SECRET>
+security.oauth2.client.clientId  =  309517315902-nho8vnn629f7dujl1o9d2titf23tr5ue.apps.googleusercontent.com 
+security.oauth2.client.clientSecret  =  QgiQFW5ux-1InG1TQrEnRzSV 
 security.oauth2.client.accessTokenUri  =  https://www.googleapis.com/oauth2/v3/token
 security.oauth2.client.userAuthorizationUri  =  https://accounts.google.com/o/oauth2/auth
 security.oauth2.client.tokenName = oauth_token
