@@ -1,6 +1,5 @@
 # Spring Security and Google OAuth 2.0 
 
-## Quality
 [![Build Status](https://travis-ci.org/julioomoura/oauth2-google.svg?branch=master)](https://travis-ci.org/julioomoura/oauth2-google)
 
 ## Stack
