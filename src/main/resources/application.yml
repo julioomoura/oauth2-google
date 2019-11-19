@@ -1,12 +1,10 @@
 spring:
   jpa:
-    hibernate:
-      ddl-auto: update
-      dialect: org.hibernate.dialect.MySQL5Dialect
-    datasource:
-      url: jdbc:mysql://localhost:3306/example
-      username: julio
-      password: julio-senha
+    hibernate.ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3306/example
+    username: julio
+    password: julio-senha
 
 security:
   oauth2:
