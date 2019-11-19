@@ -13,4 +13,12 @@ public class User {
     private String name;
     @Column
     private String email;
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
 }
